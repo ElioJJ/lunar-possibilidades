@@ -27,7 +27,7 @@ window.LUNAR_SITE = {
   location: "João Pessoa — PB",
   contact: {
     // Use somente números, incluindo país e DDD. Exemplo: 5583999999999
-    whatsappNumber: "83 99420 5772",
+    whatsappNumber: "55 83 99420 5772",
     whatsappMessage:
       "Olá! Vi as referências de aplicações em Corian® e gostaria de conversar sobre uma possibilidade para o meu projeto.",
     email: "",
