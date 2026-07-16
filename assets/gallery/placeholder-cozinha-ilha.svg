@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de ilha em Corian</title>
+  <desc id="desc">Composição geométrica provisória para substituição por uma fotografia</desc>
+  <rect width="1500" height="900" fill="#d8d3c8"/>
+  <rect y="585" width="1500" height="315" fill="#b4ab9d"/>
+  <path d="M160 238h1180v26H160z" fill="#eeeae1"/>
+  <path d="M225 264h1040v105H225z" fill="#7f786d"/>
+  <path d="M305 450h890v220H305z" fill="#f6f4ef"/>
+  <path d="M355 670h790l-65 82H420z" fill="#c7c0b4"/>
+  <circle cx="1060" cy="558" r="54" fill="none" stroke="#9b9489" stroke-width="9"/>
+  <path d="M970 450h180v22H970z" fill="#aaa397"/>
+  <text x="72" y="820" fill="#514e48" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">SUBSTITUA PELA SUA IMAGEM</text>
+</svg>

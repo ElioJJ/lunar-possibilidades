@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de bancada com cuba dupla</title>
+  <desc id="desc">Composição geométrica provisória para substituição por uma fotografia</desc>
+  <rect width="1500" height="900" fill="#c8c4bb"/>
+  <rect x="110" y="92" width="1280" height="460" fill="#e5e1d9"/>
+  <rect x="158" y="135" width="535" height="360" fill="#b5afa5"/>
+  <rect x="807" y="135" width="535" height="360" fill="#b5afa5"/>
+  <path d="M90 552h1320v70H90z" fill="#f6f4ef"/>
+  <path d="M160 622h1180v180H160z" fill="#817d74"/>
+  <ellipse cx="455" cy="575" rx="175" ry="35" fill="#aaa59b"/>
+  <ellipse cx="1045" cy="575" rx="175" ry="35" fill="#aaa59b"/>
+  <path d="M550 445v130M550 445c0-55 78-55 78 0M1140 445v130M1140 445c0-55 78-55 78 0" fill="none" stroke="#65615a" stroke-width="14"/>
+  <text x="70" y="855" fill="#514e48" font-family="Arial, sans-serif" font-size="24" letter-spacing="5">SUBSTITUA PELA SUA IMAGEM</text>
+</svg>

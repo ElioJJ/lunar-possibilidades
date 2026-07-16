@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Referências e possibilidades de aplicação do Corian em cozinhas e banheiros."
+    />
+    <meta name="theme-color" content="#f1efe9" />
+    <title>Possibilidades em Corian | Lunar Superfícies</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="gallery-data.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#galeria">Ir para a galeria</a>
+
+    <header class="site-header" data-header>
+      <a class="brand" href="#inicio" aria-label="Lunar Superfícies — início">
+  <img
+    class="brand-logo"
+    src="assets/brand/Lunar_logo.svg"
+    alt="Lunar Superfícies"
+  >
+</a>
+
+      <nav class="primary-nav" aria-label="Navegação principal">
+        <button class="nav-link" type="button" data-filter="cozinhas">Cozinhas</button>
+        <button class="nav-link" type="button" data-filter="banheiros">Banheiros</button>
+      </nav>
+
+      <a class="header-cta js-whatsapp" href="#contato">
+        Fale sobre seu projeto
+        <span aria-hidden="true">↗</span>
+      </a>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow" data-site="eyebrow">Referências para o seu projeto</p>
+          <h1 id="hero-title" data-site="title">Possibilidades em Corian/h1>
+        </div>
+        <div class="hero-intro">
+          <p data-site="intro">
+            Uma seleção de referências para você imaginar sua cozinha e banheiros com
+            superfícies contínuas, cubas integradas e soluções desenvolvidas sob medida.
+          </p>
+          <a class="text-link" href="#galeria">
+            Explorar referências <span aria-hidden="true">↓</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="gallery-section" id="galeria" aria-labelledby="gallery-title">
+        <div class="gallery-toolbar">
+          <div>
+            <p class="section-index">01</p>
+            <h2 id="gallery-title">Inspirações selecionadas</h2>
+          </div>
+
+          <div class="filter-group" role="group" aria-label="Filtrar galeria">
+            <button class="filter-button is-active" type="button" data-filter="todos">
+              Todos <span data-count="todos">0</span>
+            </button>
+            <button class="filter-button" type="button" data-filter="cozinhas">
+              Cozinhas <span data-count="cozinhas">0</span>
+            </button>
+            <button class="filter-button" type="button" data-filter="banheiros">
+              Banheiros <span data-count="banheiros">0</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="gallery-grid" id="gallery-grid" aria-live="polite"></div>
+
+        <div class="empty-state" id="empty-state" hidden>
+          <p>Nenhuma referência foi cadastrada nesta categoria.</p>
+        </div>
+      </section>
+
+      <section class="closing" id="contato" aria-labelledby="closing-title">
+        <p class="section-index">02</p>
+        <div class="closing-grid">
+          <h2 id="closing-title" data-site="closingTitle">
+            Viu uma possibilidade que combina com seu projeto?
+          </h2>
+          <div>
+            <p data-site="closingText">
+              Envie a referência para avaliarmos como ela pode ser adaptada ao seu ambiente.
+            </p>
+            <a class="primary-button js-whatsapp" href="#contato">
+              Conversar sobre meu projeto
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-brand">
+  <img
+    class="footer-logo"
+    src="assets/brand/Lunar_logo_wt.svg"
+    alt="Lunar Superfícies"
+  >
+</div>
+
+      <p class="disclaimer" data-site="disclaimer">
+        Imagens inspiracionais. Cada solução deve ser avaliada conforme as características
+        do projeto.
+      </p>
+
+      <div class="footer-contact">
+        <a class="footer-email" data-site-email hidden></a>
+        <span data-site="location">João Pessoa — PB</span>
+      </div>
+    </footer>
+
+    <dialog class="lightbox" id="lightbox" aria-labelledby="lightbox-title">
+      <div class="lightbox-shell">
+        <button class="lightbox-close" type="button" data-lightbox-close aria-label="Fechar">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </button>
+
+        <div class="lightbox-media">
+          <img id="lightbox-image" src="" alt="" />
+          <button
+            class="lightbox-arrow lightbox-arrow--previous"
+            type="button"
+            data-lightbox-previous
+            aria-label="Imagem anterior"
+          >
+            ←
+          </button>
+          <button
+            class="lightbox-arrow lightbox-arrow--next"
+            type="button"
+            data-lightbox-next
+            aria-label="Próxima imagem"
+          >
+            →
+          </button>
+          <p class="lightbox-counter" id="lightbox-counter"></p>
+        </div>
+
+        <aside class="lightbox-content">
+          <p class="lightbox-category" id="lightbox-category"></p>
+          <h2 id="lightbox-title"></h2>
+          <p class="lightbox-description" id="lightbox-description"></p>
+          <ul class="resource-list" id="lightbox-resources"></ul>
+          <p class="image-credit" id="lightbox-credit" hidden></p>
+          <a class="lightbox-cta js-item-whatsapp" href="#contato">
+            Avaliar esta possibilidade
+            <span aria-hidden="true">↗</span>
+          </a>
+        </aside>
+      </div>
+    </dialog>
+
+    <noscript>
+      <div class="noscript-message">
+        Ative o JavaScript para visualizar a galeria de referências.
+      </div>
+    </noscript>
+  </body>
+</html>

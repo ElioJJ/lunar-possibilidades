@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de cuba integrada</title>
+  <desc id="desc">Composição geométrica provisória para substituição por uma fotografia</desc>
+  <rect width="900" height="1125" fill="#ddd9d1"/>
+  <rect x="82" y="95" width="736" height="655" fill="#c7c2b8"/>
+  <circle cx="450" cy="380" r="210" fill="#eae6df"/>
+  <rect x="105" y="710" width="690" height="58" fill="#f7f5f1"/>
+  <path d="M155 768h590v205H155z" fill="#8a857c"/>
+  <ellipse cx="450" cy="704" rx="180" ry="48" fill="#b0aba1"/>
+  <ellipse cx="450" cy="698" rx="146" ry="32" fill="#e3dfd7"/>
+  <path d="M620 588v116M620 588c0-70 95-70 95 0" fill="none" stroke="#68645e" stroke-width="15"/>
+  <text x="54" y="1060" fill="#514e48" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">SUBSTITUA PELA SUA IMAGEM</text>
+</svg>

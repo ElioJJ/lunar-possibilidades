@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de bancada e revestimento contínuos</title>
+  <desc id="desc">Composição geométrica provisória para substituição por uma fotografia</desc>
+  <rect width="900" height="1125" fill="#b7b2a9"/>
+  <path d="M90 90h720v770H90z" fill="#efebe4"/>
+  <rect x="160" y="165" width="580" height="420" fill="#d4d0c7"/>
+  <path d="M90 585h720v78H90z" fill="#faf8f4"/>
+  <path d="M160 663h580v248H160z" fill="#77736c"/>
+  <rect x="285" y="565" width="330" height="78" rx="30" fill="#aca79e"/>
+  <rect x="314" y="579" width="272" height="49" rx="22" fill="#e3dfd7"/>
+  <path d="M615 490v90M615 490c0-48 72-48 72 0" fill="none" stroke="#65615a" stroke-width="14"/>
+  <text x="54" y="1060" fill="#514e48" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">SUBSTITUA PELA SUA IMAGEM</text>
+</svg>
