@@ -40,7 +40,7 @@ window.LUNAR_GALLERY = [
     category: "cozinhas",
     image: "assets/gallery/ilha_monolitica.jpg",
     alt: "Espaço reservado para uma referência de ilha em Corian",
-    title: "Ilha com aparência contínua",
+    title: "Ilha monolítica - design sem interrupções",
     description:
       "Uma composição em que tampo, laterais e volumes trabalham como um único elemento visual.",
     resources: ["Continuidade visual", "Ilha", "Solução sob medida"],
@@ -50,7 +50,7 @@ window.LUNAR_GALLERY = [
   {
     id: "banheiro-cuba-integrada",
     category: "banheiros",
-    image: "assets/gallery/placeholder-banheiro-cuba.svg",
+    image: "assets/gallery/bancada_banheiro.jpg",
     alt: "Espaço reservado para uma referência de cuba integrada em banheiro",
     title: "Cuba integrada",
     description:
@@ -78,7 +78,7 @@ window.LUNAR_GALLERY = [
     alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
     title: "Cubas e bancada completamente integradas",
     description:
-      "Integração de bancada e cubas. Higiêne e harmonia visual",
+      "Integração de bancada e cubas. Higiêne e harmonia visual.",
     resources: ["Cuba", "Higiêne", "Praticidade"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
     format: "tall",
@@ -90,10 +90,10 @@ window.LUNAR_GALLERY = [
     alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
     title: "Cozinha Integrada",
     description:
-      "Integração de bancada e cubas. Higiêne e harmonia visual",
-    resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios"],
+      "Solução completa de integração e usabilidade.",
+    resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios", "Ilha"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
-    format: "tall",
+    format: "portrait",
   },
   {
     id: "cozinha-recursos",
@@ -102,22 +102,46 @@ window.LUNAR_GALLERY = [
     alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
     title: "Bancada com recursos de design",
     description:
-      "Integração de bancada e cubas. Higiêne e harmonia visual",
-    resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios"],
+      "Bancada com soluções personalizadas de design.",
+    resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios", "Calha úmida"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
     format: "tall",
   },
   {
     id: "banheiro-cuba-dupla",
     category: "banheiros",
-    image: "assets/gallery/placeholder-banheiro-duplo.svg",
+    image: "assets/gallery/bancada_dupla.jpg",
     alt: "Espaço reservado para uma referência de bancada com cuba dupla",
     title: "Bancada com cuba dupla",
     description:
       "Uma solução contínua e personalizada para suítes, hotéis e ambientes de uso compartilhado.",
-    resources: ["Cuba dupla", "Hotelaria", "Personalização"],
+    resources: ["Cuba dupla", "Hotelaria", "Personalização", "Suíte master"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
-    format: "landscape",
+    format: "portrait",
+  },
+  {
+    id: "cozinha-cuba-integrada",
+    category: "cozinhas",
+    image: "assets/gallery/cuba_integrada_clean.png",
+    alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
+    title: "Integração e design clean",
+    description:
+      "Integração de bancada e cubas. Higiêne e harmonia visual",
+    resources: ["Cuba", "Higiêne", "Praticidade"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "tall",
+  },
+  {
+    id: "cuba-farm-sink",
+    category: "cozinhas",
+    image: "assets/gallery/farm_sink.png",
+    alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
+    title: "Cuba Farm Sink",
+    description:
+      "Integração de bancada e cubas. Higiêne e harmonia visual",
+    resources: ["Cuba", "Higiêne", "Praticidade"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "square",
   },
   {
     id: "cozinha-formas-curvas",
@@ -144,16 +168,52 @@ window.LUNAR_GALLERY = [
     format: "square",
   },
   {
-    id: "banheiro-revestimento-continuo",
+    id: "lavabo_moderno",
     category: "banheiros",
-    image: "assets/gallery/placeholder-banheiro-continuo.svg",
+    image: "assets/gallery/lavabo_moderno.jpg",
     alt: "Espaço reservado para uma referência de bancada e revestimento contínuos",
-    title: "Bancada e revestimento integrados",
+    title: "Bancada com design contemporâneo",
     description:
       "O mesmo material pode avançar da bancada para frontões ou paredes, criando uma leitura arquitetônica mais limpa.",
     resources: ["Revestimento", "Frontão", "Continuidade"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
     format: "portrait",
+  },
+  {
+    id: "cozinha-rebaixo-italiano",
+    category: "cozinhas",
+    image: "assets/gallery/integracao_acabamentos.jpg",
+    alt: "Espaço reservado para uma referência de bancada com formas curvas",
+    title: "Harmonia com diversos acabamentos.",
+    description:
+      "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
+    resources: ["Curvas", "Cantos arredondados", "Design"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "portrait",
+  },
+  {
+    id: "bancada_recursos_personalizados",
+    category: "cozinhas",
+    image: "assets/gallery/recursos_unicos.jpg",
+    alt: "Espaço reservado para uma referência de cuba com tampa em Corian",
+    title: "Bancada com recursos únicos e personalizados",
+    description:
+      "Elementos produzidos sob medida podem ampliar a área útil e preservar a organização visual da bancada.",
+    resources: ["Cuba", "Tampa", "Acessórios integrados"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "portrait",
+  },
+  {
+    id: "lavabo_personalizado",
+    category: "banheiros",
+    image: "assets/gallery/lavabo_personalizado.jpg",
+    alt: "Espaço reservado para uma referência de bancada e revestimento contínuos",
+    title: "Lavabo com solução personalizada",
+    description:
+      "O mesmo material pode avançar da bancada para frontões ou paredes, criando uma leitura arquitetônica mais limpa.",
+    resources: ["Revestimento", "Frontão", "Continuidade"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "landscape",
   },
    {
     id: "cozinha-rebaixo-italiano",
@@ -166,5 +226,17 @@ window.LUNAR_GALLERY = [
     resources: ["Curvas", "Cantos arredondados", "Design"],
     credit: "Imagem provisória — substitua por uma referência autorizada.",
     format: "portrait",
+  },
+  {
+    id: "apoio_panelas",
+    category: "cozinhas",
+    image: "assets/gallery/apoio_panelas.jpg",
+    alt: "Espaço reservado para uma referência de bancada com formas curvas",
+    title: "Sistema para apoio de panelas",
+    description:
+      "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
+    resources: ["Curvas", "Cantos arredondados", "Design"],
+    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    format: "aquare",
   },
 ];
