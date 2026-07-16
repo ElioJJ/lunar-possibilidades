@@ -44,7 +44,7 @@ window.LUNAR_GALLERY = [
     description:
       "Uma composição em que tampo, laterais e volumes trabalham como um único elemento visual.",
     resources: ["Continuidade visual", "Ilha", "Solução sob medida"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "landscape",
   },
   {
@@ -56,7 +56,7 @@ window.LUNAR_GALLERY = [
     description:
       "Cuba e bancada desenvolvidas no mesmo material para criar unidade e facilitar a limpeza.",
     resources: ["Cuba integrada", "Não porosidade", "Limpeza"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },  
   {
@@ -68,7 +68,7 @@ window.LUNAR_GALLERY = [
     description:
       "Elementos produzidos sob medida podem ampliar a área útil e preservar a organização visual da bancada.",
     resources: ["Cuba", "Tampa", "Acessórios integrados"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "tall",
   },
   {
@@ -80,7 +80,7 @@ window.LUNAR_GALLERY = [
     description:
       "Integração de bancada e cubas. Higiêne e harmonia visual.",
     resources: ["Cuba", "Higiêne", "Praticidade"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "tall",
   },
   {
@@ -92,7 +92,7 @@ window.LUNAR_GALLERY = [
     description:
       "Solução completa de integração e usabilidade.",
     resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios", "Ilha"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -104,7 +104,7 @@ window.LUNAR_GALLERY = [
     description:
       "Bancada com soluções personalizadas de design.",
     resources: ["Cuba", "Higiêne", "Praticidade", "Acessórios", "Calha úmida"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "tall",
   },
   {
@@ -116,7 +116,7 @@ window.LUNAR_GALLERY = [
     description:
       "Uma solução contínua e personalizada para suítes, hotéis e ambientes de uso compartilhado.",
     resources: ["Cuba dupla", "Hotelaria", "Personalização", "Suíte master"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -128,7 +128,7 @@ window.LUNAR_GALLERY = [
     description:
       "Integração de bancada e cubas. Higiêne e harmonia visual",
     resources: ["Cuba", "Higiêne", "Praticidade"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "tall",
   },
   {
@@ -140,7 +140,7 @@ window.LUNAR_GALLERY = [
     description:
       "Integração de bancada e cubas. Higiêne e harmonia visual",
     resources: ["Cuba", "Higiêne", "Praticidade"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "square",
   },
   {
@@ -152,7 +152,7 @@ window.LUNAR_GALLERY = [
     description:
       "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
     resources: ["Curvas", "Cantos arredondados", "Design"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "square",
   },
    {
@@ -164,7 +164,7 @@ window.LUNAR_GALLERY = [
     description:
       "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
     resources: ["Curvas", "Cantos arredondados", "Design"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "square",
   },
   {
@@ -176,7 +176,7 @@ window.LUNAR_GALLERY = [
     description:
       "O mesmo material pode avançar da bancada para frontões ou paredes, criando uma leitura arquitetônica mais limpa.",
     resources: ["Revestimento", "Frontão", "Continuidade"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -188,7 +188,7 @@ window.LUNAR_GALLERY = [
     description:
       "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
     resources: ["Curvas", "Cantos arredondados", "Design"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -200,7 +200,7 @@ window.LUNAR_GALLERY = [
     description:
       "Elementos produzidos sob medida podem ampliar a área útil e preservar a organização visual da bancada.",
     resources: ["Cuba", "Tampa", "Acessórios integrados"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -212,7 +212,7 @@ window.LUNAR_GALLERY = [
     description:
       "O mesmo material pode avançar da bancada para frontões ou paredes, criando uma leitura arquitetônica mais limpa.",
     resources: ["Revestimento", "Frontão", "Continuidade"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "landscape",
   },
    {
@@ -224,7 +224,7 @@ window.LUNAR_GALLERY = [
     description:
       "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
     resources: ["Curvas", "Cantos arredondados", "Design"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
   },
   {
@@ -236,7 +236,7 @@ window.LUNAR_GALLERY = [
     description:
       "Curvas e cantos arredondados permitem criar volumes mais fluidos e adequados à circulação do ambiente.",
     resources: ["Curvas", "Cantos arredondados", "Design"],
-    credit: "Imagem provisória — substitua por uma referência autorizada.",
+    credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "aquare",
   },
 ];
