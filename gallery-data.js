@@ -58,7 +58,7 @@ window.LUNAR_GALLERY = [
     resources: ["Cuba integrada", "Não porosidade", "Limpeza"],
     credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
-  },  
+  },
   {
     id: "cozinha-cuba-tampa",
     category: "cozinhas",
@@ -155,7 +155,7 @@ window.LUNAR_GALLERY = [
     credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "square",
   },
-   {
+  {
     id: "cozinha-formas-curvas",
     category: "cozinhas",
     image: "assets/gallery/ilha_curva2.jpg",
@@ -215,7 +215,7 @@ window.LUNAR_GALLERY = [
     credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "landscape",
   },
-   {
+  {
     id: "cozinha-rebaixo-italiano",
     category: "cozinhas",
     image: "assets/gallery/rebaixo_italiano.jpg",
@@ -238,5 +238,41 @@ window.LUNAR_GALLERY = [
     resources: ["Curvas", "Cantos arredondados", "Design"],
     credit: "Imagens de referência, algumas não executadas pela Lunar Superfícies, utilizadas para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "aquare",
+  },
+  {
+    id: "banheiro-lavabo-referencia-01",
+    category: "banheiros",
+    image: "https://i.pinimg.com/1200x/cc/86/c0/cc86c0eff93a679efbfa329005799eb9.jpg",
+    alt: "Referência de aplicação de Corian em banheiro ou lavabo",
+    title: "Superfície contínua para banheiros e lavabos",
+    description:
+      "A continuidade visual é um dos principais recursos do Corian, permitindo desenvolver bancadas com leitura limpa, integrada e adequada a projetos contemporâneos.",
+    resources: ["Continuidade visual", "Bancada", "Solução sob medida"],
+    credit: "Imagem de referência, não necessariamente executada pela Lunar Superfícies, utilizada para ilustrar possibilidades de aplicação do Corian no seu projeto.",
+    format: "portrait",
+  },
+  {
+    id: "banheiro-lavabo-referencia-02",
+    category: "banheiros",
+    image: "https://i.pinimg.com/1200x/88/72/9e/88729e414e4c5a5b5cf6f447fdf81208.jpg",
+    alt: "Referência de bancada em Corian para banheiro ou lavabo",
+    title: "Integração e leveza no desenho da bancada",
+    description:
+      "O Corian permite reduzir interrupções visuais e desenvolver soluções com geometrias precisas, valorizando a integração entre bancada, cuba e demais elementos do ambiente.",
+    resources: ["Integração", "Design minimalista", "Personalização"],
+    credit: "Imagem de referência, não necessariamente executada pela Lunar Superfícies, utilizada para ilustrar possibilidades de aplicação do Corian no seu projeto.",
+    format: "portrait",
+  },
+  {
+    id: "banheiro-lavabo-referencia-03",
+    category: "banheiros",
+    image: "https://i.pinimg.com/1200x/fa/33/15/fa3315c910094d76203299fcc6734778.jpg",
+    alt: "Referência de solução personalizada em Corian para lavabo",
+    title: "Lavabo com solução desenvolvida sob medida",
+    description:
+      "Mais do que revestir uma bancada, o material pode participar do desenho do ambiente, permitindo criar volumes, encontros e detalhes personalizados para cada projeto.",
+    resources: ["Projeto sob medida", "Volumes integrados", "Design"],
+    credit: "Imagem de referência, não necessariamente executada pela Lunar Superfícies, utilizada para ilustrar possibilidades de aplicação do Corian no seu projeto.",
+    format: "portrait",
   },
 ];
