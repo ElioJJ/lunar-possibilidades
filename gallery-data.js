@@ -242,7 +242,7 @@ window.LUNAR_GALLERY = [
   {
     id: "banheiro-lavabo-referencia-01",
     category: "banheiros",
-    image: "https://i.pinimg.com/1200x/cc/86/c0/cc86c0eff93a679efbfa329005799eb9.jpg",
+    image: "assets/gallery/lavabo_box.jpg",
     alt: "Referência de aplicação de Corian em banheiro ou lavabo",
     title: "Superfície contínua para banheiros e lavabos",
     description:
@@ -254,7 +254,7 @@ window.LUNAR_GALLERY = [
   {
     id: "banheiro-lavabo-referencia-02",
     category: "banheiros",
-    image: "https://i.pinimg.com/1200x/88/72/9e/88729e414e4c5a5b5cf6f447fdf81208.jpg",
+    image: "assets/gallery/lavabo_duplo.jpg",
     alt: "Referência de bancada em Corian para banheiro ou lavabo",
     title: "Integração e leveza no desenho da bancada",
     description:
@@ -266,7 +266,7 @@ window.LUNAR_GALLERY = [
   {
     id: "banheiro-lavabo-referencia-03",
     category: "banheiros",
-    image: "https://i.pinimg.com/1200x/fa/33/15/fa3315c910094d76203299fcc6734778.jpg",
+    image: "assets/gallery/lavabo_moderno2.jpg",
     alt: "Referência de solução personalizada em Corian para lavabo",
     title: "Lavabo com solução desenvolvida sob medida",
     description:
