@@ -84,7 +84,7 @@
   }
 
   function categoryLabel(category) {
-    return category === "cozinhas" ? "Cozinhas" : "Banheiros";
+    return category === "cozinhas" ? "Cozinhas" : "Banheiros e Lavabos";
   }
 
   function createCard(item) {
