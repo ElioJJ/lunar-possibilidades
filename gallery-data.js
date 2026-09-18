@@ -274,5 +274,17 @@ window.LUNAR_GALLERY = [
     resources: ["Projeto sob medida", "Volumes integrados", "Design"],
     credit: "Imagem de referência, não necessariamente executada pela Lunar Superfícies, utilizada para ilustrar possibilidades de aplicação do Corian no seu projeto.",
     format: "portrait",
-  },
+  },,
+  {
+    id: "lavabo-onda",
+    category: "banheiros",
+    image: "assets/gallery/lavabo_onda.jpg",
+    alt: "Referência de lavabo em Corian com desenho orgânico e formas curvas",
+    title: "Formas orgânicas que transformam a bancada",
+    description:
+      "A possibilidade de criar curvas e volumes contínuos permite ao Corian assumir um papel mais arquitetônico no lavabo, transformando a bancada em um elemento de destaque do ambiente.",
+    resources: ["Formas curvas", "Continuidade", "Design personalizado"],
+    credit: "Imagem de referência, não necessariamente executada pela Lunar Superfícies, utilizada para ilustrar possibilidades de aplicação do Corian no seu projeto.",
+    format: "landscape",
+  }
 ];
